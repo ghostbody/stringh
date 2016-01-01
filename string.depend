@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1447479818 source:/home/xinyuan/string/main.c
+	<stdio.h>
+	"myString.h"
+	<string.h>
+
+1447505275 /home/xinyuan/string/myString.h
+
+1447476209 source:/home/xinyuan/string/myString.c
+	"myString.h"
+
